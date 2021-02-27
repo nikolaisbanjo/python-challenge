@@ -1,0 +1,17 @@
+1048575
+"['Khan' 'Correy' 'Li' ""O'Tooley""]"
+"           Voter ID  County
+Candidate                  
+Correy       209046  209046
+Khan         661583  661583
+Li           146360  146360
+O'Tooley      31586   31586"
+"           Voter ID  County
+Candidate                  
+Correy         20.0    20.0
+Khan           63.0    63.0
+Li             14.0    14.0
+O'Tooley        3.0     3.0"
+"Voter ID    661583
+County      661583
+dtype: int64"

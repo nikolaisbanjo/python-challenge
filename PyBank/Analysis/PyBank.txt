@@ -1,0 +1,7 @@
+"8638382578-2315Date                          Feb-12
+Profit/Losses                1170593
+Monthly Profit Change    1.92616e+06
+Name: 25, dtype: objectDate                          Sep-13
+Profit/Losses               -1196225
+Monthly Profit Change   -2.19617e+06
+Name: 44, dtype: object"
